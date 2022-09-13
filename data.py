@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 
-__author__ = 'zzz'
-__date__ = '2019.08.07'
-
 import torch
 import itertools
 import random
